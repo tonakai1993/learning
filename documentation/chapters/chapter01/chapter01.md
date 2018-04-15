@@ -1,8 +1,15 @@
 # 第1章
 
 ## 画像の埋め込み
-### 基本形
+### 基本形(URL直接)
 ```
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png)
+```
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png)
+
+### 基本形(URL間接)
+```
+[photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
 ![写真1][photo0001]
 ```
 ![写真1][photo0001]
