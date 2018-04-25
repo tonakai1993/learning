@@ -37,6 +37,7 @@
 サムネイル画像を別途作成し、元画像へのリンクとして設定する。
 
 ```
+[photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
 [photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
 [![写真2][photo0002]][photo0001]
 ```
