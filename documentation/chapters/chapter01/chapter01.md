@@ -17,10 +17,15 @@
 ### 縮小方法(方法1)
 一部のMarkdownで使用可能とされている下記の書式はGitHubでは適用されない。
 ```
-![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png =100x100)
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png =300x100)
 ```
 
-![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png =100x100)
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png =300x100)
+
+```
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png | width=300)
+```
+![写真1](../../figures/photos/photo0001-Shioiri-Manhole.png | width=300)
 
 ### 縮小方法(方法2)
 表形式で複数の画像を埋め込むことで縮小は可能。
