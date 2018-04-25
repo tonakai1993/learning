@@ -34,14 +34,11 @@
 |![写真1][photo0001]|![写真1][photo0001]|
 
 ### 縮小方法(方法3)
-サムネイル画像を別途作成する。
-```
-![写真2][photo0002]
-```
-![写真2][photo0002]
+サムネイル画像を別途作成し、元画像へのリンクとして設定する。
 
 ```
-[![写真2][photo0001small]][photo0001]
+[photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
+[![写真2][photo0002]][photo0001]
 ```
 [![写真2][photo0002]][photo0001]
 
