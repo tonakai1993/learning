@@ -9,7 +9,7 @@
 ![URL指定した写真](../../figures/photos/photo0001-Shioiri-Manhole.png)
 
 ### ID指定
-同一の画像を複数個所で参照する場合は、URLにIDを付与しIDで指定することができる。IDの定義は、参照の前後いずれでもよく、定義文自体が表示されることはない。
+URLにIDを付与しIDで指定することができる。IDの定義は、参照の前後いずれでもよく、定義文自体が表示されることはない。同一の画像を複数個所で参照する場合、あるいは本文の可読性を保ちつつ画像への参照を分離する場合に有用である。
 ```
 ![ID指定した写真][photo0001]
 [photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
@@ -18,11 +18,11 @@
 
 ## 画像サイズの調整(縮小)
 ### サムネイル
-サイズの大きな画像については、縮小した画像を別途作成し、元画像へのリンクとしてサムネイル表示することができる。
+サイズの大きな画像については、縮小した画像を別途作成し、元画像へのリンクとしてサムネイル表示することができる。この例では、1500x500サイズである画像に対して300x100サイズのサムネイル画像を設定している。
 ```
-[![拡大表示可能な写真][photo0002]][photo0001]
-[photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
-[photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
+[![拡大表示可能な写真][photo-small]][photo-large]
+[photo-large]:../../figures/photos/photo0001-Shioiri-Manhole.png
+[photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
 ```
 [![拡大表示可能な写真][photo0002]][photo0001]
 
@@ -51,3 +51,5 @@
 <!-- URLの参照先 -->
 [photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
 [photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
+[photo-large]:../../figures/photos/photo0001-Shioiri-Manhole.png
+[photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
