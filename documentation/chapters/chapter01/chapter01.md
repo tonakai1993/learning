@@ -24,7 +24,7 @@ URLにIDを付与しIDで指定することができる。IDの定義は、参�
 [photo-large]:../../figures/photos/photo0002-Shioiri-Dome.png
 [photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
 ```
-[![拡大表示可能な写真][photo0002]][photo0001]
+[![拡大表示可能な写真][photo-small]][photo-large]
 
 ### GitHubでは適用されない記法
 画像サイズの調整方法として、使用可能と言われている下記のような「サイズ値を記述する」記法はGitHubでは適用されない。
