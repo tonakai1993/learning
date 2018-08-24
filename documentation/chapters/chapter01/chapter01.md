@@ -21,7 +21,7 @@ URLにIDを付与しIDで指定することができる。IDの定義は、参�
 サイズの大きな画像については、縮小した画像を別途作成し、元画像へのリンクとしてサムネイル表示することができる。この例では、1500x500サイズである画像に対して300x100サイズのサムネイル画像を設定している。
 ```
 [![拡大表示可能な写真][photo-small]][photo-large]
-[photo-large]:../../figures/photos/photo0001-Shioiri-Manhole.png
+[photo-large]:../../figures/photos/photo0002-Shioiri-Dome.png
 [photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
 ```
 [![拡大表示可能な写真][photo0002]][photo0001]
