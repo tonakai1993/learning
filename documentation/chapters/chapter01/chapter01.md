@@ -51,5 +51,5 @@ URLにIDを付与しIDで指定することができる。IDの定義は、参�
 <!-- URLの参照先 -->
 [photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
 [photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
-[photo-large]:../../figures/photos/photo0001-Shioiri-Manhole.png
+[photo-large]:../../figures/photos/photo0001-Shioiri-Dome.png
 [photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
