@@ -22,7 +22,7 @@ URLにIDを付与しIDで指定することができる。IDの定義は、参�
 ```
 [![拡大表示可能な写真][photo-small]][photo-large]
 [photo-large]:../../figures/photos/photo0002-Shioiri-Dome.png
-[photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
+[photo-small]:../../figures/photos/photo0002-Shioiri-Dome-small.png
 ```
 [![拡大表示可能な写真][photo-small]][photo-large]
 
@@ -52,4 +52,4 @@ URLにIDを付与しIDで指定することができる。IDの定義は、参�
 [photo0001]:../../figures/photos/photo0001-Shioiri-Manhole.png
 [photo0002]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
 [photo-large]:../../figures/photos/photo0002-Shioiri-Dome.png
-[photo-small]:../../figures/photos/photo0001-Shioiri-Manhole-small.png
+[photo-small]:../../figures/photos/photo0002-Shioiri-Dome-small.png
