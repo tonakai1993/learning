@@ -4,9 +4,9 @@
 ### URL指定(相対パス可)
 リポジトリ内の相対URLを指定することができる。また画像表示が無効である(または遅延している)場合の代替テキストを指定できる。
 ```
-![URL指定した写真](../../figures/photos/photo0001-Shioiri-Manhole.png)
+![URL指定した写真](../../figures/photos/photo0001-Shioiri-Manhole-smallest.png)
 ```
-![URL指定した写真](../../figures/photos/photo0001-Shioiri-Manhole.png)
+![URL指定した写真](../../figures/photos/photo0001-Shioiri-Manhole-smallest.png)
 
 ### ID指定
 URLにIDを付与しIDで指定することができる。IDの定義は、参照の前後いずれでもよく、定義文自体が表示されることはない。同一の画像を複数個所で参照する場合、あるいは本文の可読性を保ちつつ画像への参照を分離する場合に有用である。
